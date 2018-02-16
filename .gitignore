@@ -1,0 +1,7 @@
+# Local project files
+.idea/
+node_modules/
+.DS_Store
+
+# Log files
+*.log
